@@ -9,7 +9,7 @@ development.
 
 Latest git-wip can be obtained from [github.com](http://github.com/bartman/git-wip).
 git-wip was written by [Bart Trojanowski](mailto:bart@jukie.net).
-You can find out more from the original [blog post](http://www.jukie.net/bart/blog/save-everything-with-git-wip).
+You can find out more from the original [blog post](https://web.archive.org/web/20150511105244/http://www.jukie.net:80/bart/blog/save-everything-with-git-wip)
 
 # WIP branches
 
